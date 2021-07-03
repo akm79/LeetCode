@@ -1,3 +1,3 @@
 # LeetCode
 
-solved a few leetcode problems,cheers !!
+solved a few basic leetcode problems,cheers !!
